@@ -2,7 +2,7 @@
 <h3 align="center">Web development</h3>
 
 <p align="center">
- <a href="www.linkedin.com/in/rohan-koli-7a5333331">
+ <a href="www.linkedin.com/in/rohan-koli-7a5333331" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rohankoli169@gmail.com">
